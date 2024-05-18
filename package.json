@@ -1,0 +1,23 @@
+{
+  "name": "mehediVsTheme",
+  "displayName": "Mehedi VS Theme",
+  "description": "A dark theme optimized for midnight coding",
+  "version": "0.0.1",
+  "publisher": "your-vs-publisher",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mehedi VS Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mehediVsTheme-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT"
+}
