@@ -1,16 +1,79 @@
-# mehedivstheme README
+# Mehedi VS Theme
 
-## Working with Markdown
+A collection of dark themes optimized for midnight coding. This extension includes multiple themes with different styles to suit your preference.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Themes Included
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- **Dark Soft**: A gentle dark theme that's easy on the eyes.
+- **Twilight**: A dark theme with a warm touch.
+- **Midnight**: A deep dark theme for late-night coding.
+- **Peach of Eye**: A soothing dark theme with peach accents.
 
-## For more information
+## Installation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Via Visual Studio Code Marketplace
 
-**Enjoy!**
+1. Open **Visual Studio Code**.
+2. Go to the **Extensions** view by clicking on the Extensions icon in the Sidebar (or by pressing `Ctrl+Shift+X`).
+3. Search for `Mehedi VS Theme`.
+4. Click **Install** to install the theme.
+5. Once installed, go to **Preferences** > **Color Theme** and select your preferred theme from the dropdown.
+
+### Manual Installation
+
+1. Download the latest release of `Mehedi VS Theme` from the [GitHub releases page](https://github.com/your-username/mehediVsTheme/releases).
+2. Unzip the downloaded file.
+3. Open **Visual Studio Code**.
+4. Go to the **Extensions** view by clicking on the Extensions icon in the Sidebar (or by pressing `Ctrl+Shift+X`).
+5. Click on the three dots in the upper right corner and select **Install from VSIX...**.
+6. Navigate to the unzipped file and select the `.vsix` file to install.
+7. Once installed, go to **Preferences** > **Color Theme** and select your preferred theme from the dropdown.
+
+## Features
+
+### Dark Soft
+
+- **Background**: #1E1E1E
+- **Foreground**: #D4D4D4
+- **Activity Bar Badge Background**: #007ACC
+- **Sidebar Title Foreground**: #BBBBBB
+
+### Twilight
+
+- **Background**: #141414
+- **Foreground**: #CCCCCC
+- **Activity Bar Badge Background**: #3388FF
+- **Sidebar Title Foreground**: #AAAAAA
+
+### Midnight
+
+- Optimized for minimal eye strain during long coding sessions.
+
+### Peach of Eye
+
+- **Background**: #2B2B2B
+- **Foreground**: #FFDAB9
+- **Activity Bar Badge Background**: #FF8C69
+- **Sidebar Title Foreground**: #FFCBA4
+
+## Repository
+
+The source code for this theme extension is available on GitHub: [Mehedi VS Theme GitHub Repository](https://github.com/your-username/mehediVsTheme).
+
+## License
+
+This extension is licensed under the MIT License.
+
+## Author
+
+Created by **Mehedi Imun Anik**.
+
+- Email: mehediimun@gmail.com
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/your-username/mehediVsTheme).
+
+## Feedback
+
+If you have any feedback or run into issues, please reach out via the [GitHub repository](https://github.com/your-username/mehediVsTheme) or email me at mehediimun@gmail.com.

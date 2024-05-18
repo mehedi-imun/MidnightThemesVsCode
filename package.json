@@ -3,7 +3,7 @@
   "displayName": "Mehedi VS Theme",
   "description": "A dark theme optimized for midnight coding",
   "version": "0.0.1",
-  "publisher": "your-vs-publisher",
+  "publisher": "mehediimun",
   "engines": {
     "vscode": "^1.50.0"
   },
@@ -13,11 +13,41 @@
   "contributes": {
     "themes": [
       {
-        "label": "Mehedi VS Theme",
+        "label": "Dark Soft",
         "uiTheme": "vs-dark",
-        "path": "./themes/mehediVsTheme-color-theme.json"
+        "path": "./themes/darkSoft.json"
+      },
+      {
+        "label": "twilight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/twilight.json"
+      },
+      {
+        "label": "Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight.json"
+      },
+      {
+        "label": "Peach of Eye",
+        "uiTheme": "vs-dark",
+        "path": "./themes/peach-of-eye.json"
       }
     ]
   },
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/mehediVsTheme"
+  },
+  "license": "MIT",
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "midnight"
+  ],
+  "author": {
+    "name": "Mehedi imun anik",
+    "email": "mehediimun@gmail.com"
+  }
+ 
 }
