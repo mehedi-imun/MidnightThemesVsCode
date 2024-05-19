@@ -21,7 +21,7 @@ A collection of dark themes optimized for midnight coding. This extension includ
 
 ### Manual Installation
 
-1. Download the latest release of `Mehedi VS Theme` from the [GitHub releases page](https://github.com/mehedi-imun/mehediVsTheme).
+1. Download the latest release of `Mehedi VS Theme` from the [GitHub releases page](https://github.com/mehedi-imun/mehediVsTheme/releases).
 2. Unzip the downloaded file.
 3. Open **Visual Studio Code**.
 4. Go to the **Extensions** view by clicking on the Extensions icon in the Sidebar (or by pressing `Ctrl+Shift+X`).
@@ -58,7 +58,7 @@ A collection of dark themes optimized for midnight coding. This extension includ
 
 ## Repository
 
-The source code for this theme extension is available on GitHub: [Mehedi VS Theme GitHub Repository](https://github.com/mehedi-imun/mehediVsTheme).
+The source code for this theme extension is available on GitHub: [Mehedi VS Theme GitHub Repository](https://github.com/mehedi-imun/mehediVsTheme/mehediVsTheme).
 
 ## License
 
@@ -76,4 +76,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Feedback
 
-If you have any feedback or run into issues, please reach out via the [GitHub repository](https://github.com/mehedi-imun/mehediVsThemev) or email me at mehediimun@gmail.com.
+If you have any feedback or run into issues, please reach out via the [GitHub repository](https://github.com/mehedi-imun/mehediVsTheme) or email me at mehediimun@gmail.com.
