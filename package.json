@@ -2,7 +2,7 @@
   "name": "mehediVsTheme",
   "displayName": "Mehedi VS Theme",
   "description": "A dark theme optimized for midnight coding",
-  "version": "0.0.1",
+  "version": "2.0.2",
   "publisher": "mehediimun",
   "engines": {
     "vscode": "^1.50.0"
@@ -48,6 +48,6 @@
   "author": {
     "name": "Mehedi imun anik",
     "email": "mehediimun@gmail.com"
-  }
- 
+  },
+  "icon": "./icons/Mehedi.png"
 }
