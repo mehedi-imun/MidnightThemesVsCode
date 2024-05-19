@@ -1,8 +1,8 @@
 {
   "name": "mehediVsTheme",
-  "displayName": "Mehedi VS Theme",
-  "description": "A dark theme optimized for midnight coding",
-  "version": "2.0.2",
+  "displayName": "Midnight Themes",
+  "description": "Illuminate your midnight coding sessions with our collection of exquisite dark themes. Designed to inspire creativity and focus, these themes blend elegance with functionality, creating a serene and immersive coding environment.",
+  "version": "2.0.3",
   "publisher": "mehediimun",
   "engines": {
     "vscode": "^1.50.0"
@@ -12,6 +12,11 @@
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "Eclipse Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eclipseMidnight.json"
+      },
       {
         "label": "Dark Soft",
         "uiTheme": "vs-dark",
@@ -26,28 +31,24 @@
         "label": "Midnight",
         "uiTheme": "vs-dark",
         "path": "./themes/midnight.json"
-      },
-      {
-        "label": "Peach of Eye",
-        "uiTheme": "vs-dark",
-        "path": "./themes/peach-of-eye.json"
       }
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/mehediVsTheme"
+    "url": "https://github.com/mehedi-imun/MidnightThemesVsCode"
   },
   "license": "MIT",
   "keywords": [
-    "vscode",
-    "theme",
-    "dark",
-    "midnight"
+    "Vs Code Theme",
+    "Theme",
+    "Dark Theme",
+    "Midnight Themes"
   ],
   "author": {
     "name": "Mehedi imun anik",
-    "email": "mehediimun@gmail.com"
+    "email": "mehediimun@gmail.com",
+    "linkedin":"https://www.linkedin.com/in/mehedi-imun/"
   },
   "icon": "./icons/Mehedi.png"
 }
